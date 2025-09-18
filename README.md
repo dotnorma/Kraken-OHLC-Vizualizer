@@ -5,10 +5,6 @@ as well as competency with common data parsing/vizualization libraries (JSON/mat
 
 
 
-I've included a binary .exe should you prefer, but it does require the folder of dependencies to run (otherwise pandas will have to extract at boot and its rather large).
-
-
-
 \#==========================#=========================#=======================#====================#=======================#
 
 Contact: Alec Dominguez (androidaleccc@gmail.com) http://dotnorma.xyz
