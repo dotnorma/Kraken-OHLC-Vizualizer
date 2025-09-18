@@ -71,6 +71,7 @@ class KrakenPriceGet:
         self.changeovertimevar.set("Choose an asset to get started...")
         self.font_dic = {'family': 'Calibri', 'size': 10, 'color': "#112D4E", 'weight': "bold" }
         self.font_dic_tick = {'family': 'Calibri', 'size': 10}
+        self.periodglobal = 60
 
         #UI Labels
         gui2.Label(self.labelframe, textvariable=self.assetlabelvar, font=("Calibri", 24, "bold"), foreground="#112D4E", background="#AED6CF").grid(column=0, row=0, padx="10", sticky="WN")
